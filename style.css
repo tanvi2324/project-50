@@ -1,0 +1,102 @@
+
+
+.grid {
+    background: darkred;
+    background-color: coral;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color: #6699cc;
+  }
+  
+  .camel a {
+    padding: 50px;
+  }
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color: #6699cc;
+  }
+  
+  .chameleon a {
+    padding: 50px;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color: #6699cc;
+  }
+  
+  .cicada a {
+    padding: 50px;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color: #6699cc;
+  }
+  
+  .panda a {
+    padding: 50px;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color: #6699cc;
+  }
+  
+  .pigeon a {
+    padding: 50px;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color: #6699cc;
+  }
+  
+  .teddy a {
+    padding: 50px;
+  }
+  
+  
+  
+  h1 {
+    text-align: center;
+    color: coral;
+  }
